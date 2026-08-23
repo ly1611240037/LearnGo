@@ -1,6 +1,5 @@
 package main
 
-//导入fmt
 import "fmt"
 
 /*
