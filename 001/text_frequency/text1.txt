@@ -1,0 +1,2 @@
+Go is simple.
+Go is useful.
