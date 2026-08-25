@@ -1,0 +1,3 @@
+Hello Go
+你好，Go 语言！
+I/O is interesting.

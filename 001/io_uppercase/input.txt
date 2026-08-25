@@ -1,0 +1,3 @@
+Hello Go
+Go language is simple.
+你好，Go 语言！
