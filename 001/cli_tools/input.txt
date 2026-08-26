@@ -1,0 +1,3 @@
+Hello Go
+Go is simple and useful.
+你好，Go！
