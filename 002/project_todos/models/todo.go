@@ -4,7 +4,7 @@ import "time"
 
 type Todo struct {
 	ID          uint      `json:"id"`
-	Title       string    `json:"title" binding:"requiered"`
+	Title       string    `json:"title" binding:"required"`
 	Description string    `json:"description"`
 	Completed   bool      `json:"completed"`
 	CreateAt    time.Time `json:"create_at"`
